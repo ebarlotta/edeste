@@ -15,6 +15,8 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+
+                    <h2>FELICITACIONES MASTER!!!</h2>
                 </div>
             </div>
         </div>
