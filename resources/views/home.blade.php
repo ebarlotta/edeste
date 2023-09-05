@@ -17,6 +17,7 @@
                     {{ __('You are logged in!') }}
 
                     <h2>FELICITACIONES MASTER!!!</h2>
+                    <h2>FELICITACIONES MASTERsssssss of the universe!!!</h2>
                 </div>
             </div>
         </div>
